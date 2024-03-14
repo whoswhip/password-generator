@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "etFv74P+r/rsmFeMoZtPuEONwAIKiZBXD4lvoxADjbQHuvM3s48HdMe8K1+mj5vzNL8Jo3yoUqC+0U3z4OpwqA==",
+  "success": true,
+  "projectFilePath": "D:\\Pwojecct\\Key\\Key\\Key.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whswh\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
